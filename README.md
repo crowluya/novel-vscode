@@ -23,11 +23,9 @@ pnpm package
 
 https://github.com/BennyKok/novel-vscode/assets/18395202/8f2d400b-2a03-4ea3-96a2-6ce1eb9869b8
 
-Upon installation, novel-vscode will opens up by default for md/mdx files, to revert back, right click on md file -> open with -> configure default
-
+Upon installation, novel-vscode will opens up by default for md/mdx files, to revert back, right click on md file -&gt; open with -&gt; configure default
 
 https://github.com/BennyKok/novel-vscode/assets/18395202/407e6651-efa8-45a8-9529-d3a2083fc4bb
-
 
 ## Development
 
@@ -48,4 +46,5 @@ code .
 Once the sample is open inside VS Code you can run the extension by doing the following:
 
 1. Press `F5` to open a new Extension Development Host window
+2. Inside the host window, open the command palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) and type `Edit Markdown with Novel`1. Press `F5` to open a new Extension Development Host window
 2. Inside the host window, open the command palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) and type `Edit Markdown with Novel`

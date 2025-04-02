@@ -5,8 +5,8 @@
     "outDir": "out",
     "lib": ["es6", "dom"],
     "sourceMap": true,
-    "rootDir": "src",
+    "rootDir": ".",
     "strict": true
   },
-  "exclude": ["node_modules", ".vscode-test", "webview-ui"]
+  "exclude": ["node_modules", ".vscode-test", "webview-ui", "temp-novel"]
 }
